@@ -1,0 +1,33 @@
+
+User= admin Logged in the system at 11/19/2018  03:37:04
+
+User= admin Logged OUT the system at 11/19/2018  03:37:04
+
+User= admin Logged in the system at 11/19/2018  04:04:37
+
+User= admin Logged OUT the system at 11/19/2018  04:04:37
+
+User= admin Logged in the system at 11/19/2018  04:22:45
+
+admin Sent a Message To: user at 11/19/2018  04:23:46  Message text: ssdfadf ffd fdf dd fdf
+
+admin Hid a Message that Xaris61! had sent him at 11/19/2018  04:23:46  Message text: Hi admin I'm  Xaris61!
+
+admin Hid a Message that he had sent to user at 11/19/2018  04:23:46  Message text: ssdfadf ffd fdf dd fdf
+
+admin Hid a Message that he had sent to Nikos87! at 11/19/2018  04:23:46  Message text: Hi Nikos87! I'm admin
+
+admin Hid a Message that he had sent to Giorgos97! at 11/19/2018  04:23:46  Message text: Hi Giorgos97! I'm admin
+
+admin Hid a Message that he had sent to Xaris61! at 11/19/2018  04:23:46  Message text: Hi Xaris61! I'm admin
+
+admin Hid a Message that he had sent to Ritsa2Ep! at 11/19/2018  04:23:46  Message text: Hi Ritsa2Ep! I'm admin
+
+admin Hid a Message that he had sent to Giannis91! at 11/19/2018  04:23:46  Message text: Hi Giannis91! I'm admin
+
+admin Created a new User with Username= fillipos, Password= 123456 and Class= Advanced User at 11/19/2018  04:23:46
+
+admin Updated a User's Username from: fillipos to: nathanael at 11/19/2018  04:23:46
+
+admin Deleted the User nathanael at 11/19/2018  04:23:46
+
